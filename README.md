@@ -1,8 +1,16 @@
 [@aureooms/js-factorial](https://aureooms.github.io/js-factorial)
 ==
 
+<img src="http://ciberconta.unizar.es/LECCION/factorial/factorial.gif" width="864">
+
 Factorial function for JavaScript.
 See [docs](https://aureooms.github.io/js-factorial/index.html).
+Parent is [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms).
+
+```js
+import { factorial } from '@aureooms/js-factorial' ;
+factorial(6) ; // 720
+```
 
 [![License](https://img.shields.io/github/license/aureooms/js-factorial.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-factorial/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-factorial.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-factorial)
