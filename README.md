@@ -14,3 +14,6 @@ See [docs](https://aureooms.github.io/js-factorial/index.html).
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-factorial.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-factorial)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-factorial.svg?style=flat)](https://github.com/aureooms/js-factorial/issues)
 [![Documentation](https://aureooms.github.io/js-factorial/badge.svg)](https://aureooms.github.io/js-factorial/source.html)
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aureooms/js-factorial.svg)](https://greenkeeper.io/)
