@@ -9,7 +9,7 @@ Parent is [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms).
 
 ```js
 import { factorial } from '@aureooms/js-factorial' ;
-factorial(6) ; // 720
+factorial(18) ; // 6402373705728000
 ```
 
 [![License](https://img.shields.io/github/license/aureooms/js-factorial.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-factorial/master/LICENSE)

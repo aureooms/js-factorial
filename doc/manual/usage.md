@@ -12,5 +12,5 @@ Then
 ```js
 const factorial = require( '@aureooms/js-factorial' ) ;
 // or
-import factorial from '@aureooms/js-factorial' ;
+import * as factorial from '@aureooms/js-factorial' ;
 ```
