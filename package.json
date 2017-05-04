@@ -24,17 +24,23 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "ava": "^0.16.0",
-    "babel-cli": "^6.18.0",
-    "babel-polyfill": "^6.16.0",
-    "babel-preset-latest": "^6.16.0",
-    "codeclimate-test-reporter": "^0.4.0",
-    "coveralls": "^2.11.14",
-    "esdoc": "^0.4.8",
-    "nyc": "^8.4.0"
+    "@aureooms/js-itertools": "^3.2.1",
+    "ava": "^0.19.1",
+    "babel-cli": "^6.24.1",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-latest": "^6.24.1",
+    "codeclimate-test-reporter": "^0.4.1",
+    "coveralls": "^2.13.1",
+    "esdoc": "^0.5.2",
+    "nyc": "^10.3.0"
   },
   "homepage": "https://aureooms.github.io/js-factorial",
-  "keywords": ["combinatorics", "computer-science", "factorial", "mathematics"],
+  "keywords": [
+    "combinatorics",
+    "computer-science",
+    "factorial",
+    "mathematics"
+  ],
   "license": "AGPL-3.0",
   "main": "lib/index.js",
   "repository": {
