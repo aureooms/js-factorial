@@ -90,7 +90,7 @@ or <a href="https://github.com/npm/npm">npm</a>.</p><h3>jspm</h3><pre><code clas
 import &apos;babel-polyfill&apos; ;</code>
 </code></pre><p>Then</p><pre><code class="lang-js"><code class="source-code prettyprint">const factorial = require( &apos;@aureooms/js-factorial&apos; ) ;
 // or
-import factorial from &apos;@aureooms/js-factorial&apos; ;</code>
+import * as factorial from &apos;@aureooms/js-factorial&apos; ;</code>
 </code></pre></div>
         <a data-ice="link" href="manual/usage/usage.html"></a>
       </div>
@@ -98,7 +98,9 @@ import factorial from &apos;@aureooms/js-factorial&apos; ;</code>
 <div class="manual-card-wrap" data-ice="cards">
       <h1 data-ice="label" class="manual-color manual-color-example" data-section-count="&#x25A0;"><span data-ice="label-inner">Example</span></h1>
       <div class="manual-card">
-        <div data-ice="card"><h1>Example</h1></div>
+        <div data-ice="card"><h1>Example</h1><p>```
+import { factorial } from &apos;@aureooms/js-factorial&apos; ;
+factorial(18) ; // 6402373705728000</p></div>
         <a data-ice="link" href="manual/example/example.html"></a>
       </div>
     </div>
